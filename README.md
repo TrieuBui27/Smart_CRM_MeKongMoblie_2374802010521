@@ -1,7 +1,7 @@
 # Smart CRM – Mekong Mobile · Luồng L2: Tiếp nhận và phân loại yêu cầu bảo hành
 
-Chuyên đề tốt nghiệp 1 – Trường ĐH Văn Lang. Track SE. 
-Sinh viên: Bùi Quốc Triệu – MSSV:2374802010521.
+**Chuyên đề tốt nghiệp 1 – Trường ĐH Văn Lang. Track SE.**
+**Sinh viên: Bùi Quốc Triệu – MSSV:2374802010521.**
 
 ## 1. Giới thiệu và phạm vi
 
@@ -10,7 +10,7 @@ Sinh viên: Bùi Quốc Triệu – MSSV:2374802010521.
 **Không làm (WON'T):** phân công kỹ thuật viên (L4), kho linh kiện (L5), khảo sát hài lòng (L8), phân loại bằng học máy (L10), mở lại phiếu đã đóng, gửi SMS/Zalo, gộp hồ sơ trùng (L1).
 
 
-Thành phần	Công nghệ
+**Thành phần	Công nghệ
 Ngôn ngữ	Python 3.11+
 Framework API	FastAPI
 Truy cập dữ liệu 	SQLAlchemy
@@ -19,4 +19,4 @@ Giao diện 	React tách riêng
 Kiểm thử 	Pytest
 Tài liệu API	Postman
 Đóng gói (BT3)	Dockerfile + docker-compose
-IDE	Visual Studio Code
+IDE	Visual Studio Code**
