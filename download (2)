@@ -1,0 +1,17 @@
+# môi trường và bí mật
+.env
+*.log
+# phụ thuộc và build
+node_modules/
+__pycache__/
+.venv/
+dist/
+build/
+# dữ liệu lớn: chỉ commit mẫu nhỏ trong data/sample/
+dataset/
+*.csv
+!data/sample/*.csv
+# hệ điều hành / IDE
+.DS_Store
+.idea/
+.vscode/
